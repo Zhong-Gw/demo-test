@@ -15,7 +15,7 @@ public class Demo01 {
 
 			for (int j = 0; j < i; j++) {
 
-				System.out.println("*");
+				System.out.print("*");
 
 			}
 			
